@@ -8,6 +8,6 @@ def compute(a, b, c, d):
     return y
 
 def compute(a, b, c, d):
-    y = average(a, b, c, d);
+    y = Sum(a, b, c, d);
     return y
 
